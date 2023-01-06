@@ -1,4 +1,6 @@
-//custom.scss
+// Enable automatic light/dark mode change 
+// Note: this will disable default dark-bs-theme flag
+// See <https://getbootstrap.com/docs/5.3/customize/color-modes/>
 
 $color-mode-type: media-query;
 
