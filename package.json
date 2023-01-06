@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-jj1bdx",
+  "version": "0.0.1",
+  "description": "Modified Bootstrap for JJ1BDX's sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass custom_scss/bootstrap-jj1bdx.scss:custom_assets/bootstrap-jj1bdx.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jj1bdx/bootstrap-jj1bdx/"
+  },
+  "author": "Kenji Rikitake, JJ1BDX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jj1bdx/bootstrap-jj1bdx/issues"
+  },
+  "homepage": "https://github.com/jj1bdx/bootstrap-jj1bdx/",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.3.0-alpha1",
+    "sass": "^1.57.1"
+  }
+}
