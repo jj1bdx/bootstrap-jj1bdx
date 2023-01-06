@@ -1,5 +1,7 @@
 # bootstrap-jj1bdx
 
+Customized [Bootstrap](https://getbootstrap.com) for JJ1BDX sites
+
 ## Installation
 
 ### Package dependencies
@@ -20,3 +22,10 @@ npm install
 * do `npm run compile:sass`
   - This command runs watching the changes of the source file
 * Output: `custom_assets/bootstrap-jj1bdx.css`
+
+## Note well
+
+* No automatic minification
+  - use [Minify](https://www.npmjs.com/package/minify) or other tools
+
+
