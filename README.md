@@ -23,9 +23,8 @@ npm install
   - This command runs watching the changes of the source file
 * Output: `custom_assets/bootstrap-jj1bdx.css`
 
-## Note well
+## Generating production CSS file
 
-* No automatic minification
-  - use [Minify](https://www.npmjs.com/package/minify) or other tools
-
+* For generating minified files: do `npm run compile:min`
+* Output: `custom_assets/bootstrap-jj1bdx.min.css`
 

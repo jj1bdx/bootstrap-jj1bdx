@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile:sass": "sass custom_scss/bootstrap-jj1bdx.scss:custom_assets/bootstrap-jj1bdx.css --watch"
+    "compile:sass": "sass custom_scss/bootstrap-jj1bdx.scss:custom_assets/bootstrap-jj1bdx.css --watch",
+    "compile:min": "sass custom_scss/bootstrap-jj1bdx.scss:custom_assets/bootstrap-jj1bdx.min.css --style compressed"
   },
   "repository": {
     "type": "git",
