@@ -6,7 +6,7 @@ Customized [Bootstrap](https://getbootstrap.com) for JJ1BDX sites
 
 ### Package dependencies
 
-* bootstrap@5.3.0-alpha1
+* bootstrap@5.3.2
 * sass (aka dart-sass)
 * autoprefixer
 

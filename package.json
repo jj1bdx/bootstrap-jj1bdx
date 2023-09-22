@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/jj1bdx/bootstrap-jj1bdx/",
   "dependencies": {
-    "autoprefixer": "^10.4.14",
-    "bootstrap": "^5.3.0-alpha3",
-    "sass": "^1.60.0"
+    "autoprefixer": "^10.4.16",
+    "bootstrap": "^5.3.2",
+    "sass": "^1.68.0"
   }
 }
